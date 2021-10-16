@@ -1,0 +1,53 @@
+.Header{
+    width: 100vw;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+    &__text{
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        gap: 1rem;
+
+        button{
+            text-decoration: none;
+            padding: 10px 30px;
+            font-family: "Open Sans";
+            opacity: 0.6;
+            transition: all 0.2s ease-in-out;
+            font-size: 16px;
+            background-color: black;
+            color: white;
+            outline: none;
+            border: 0px;
+            border-radius: 10px;
+            cursor: pointer;
+            &:hover {
+              opacity: 1;
+            }
+        }
+    }
+
+    h2{
+        font-size: 16px;
+
+    }
+}
+
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}

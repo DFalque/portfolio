@@ -1,9 +1,12 @@
+import Header from "./components/Header"
 import Layout from "./layout/Layout"
 
 function App() {
 	return (
 		<>
-			<Layout>Este es el main</Layout>
+			<Layout>
+				<Header />
+			</Layout>
 		</>
 	)
 }
