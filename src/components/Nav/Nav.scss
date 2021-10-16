@@ -1,0 +1,33 @@
+.Nav{
+    margin: auto;
+    width: 80vw;
+    overflow: hidden;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10vh;
+
+    &__LinksContainer{
+        display: flex;
+        flex-direction: row;
+        gap:5rem;
+        padding: 1rem;
+
+        &__Link{
+            text-decoration: none;
+            font-family: "Open Sans";
+            opacity: 0.6;
+            font-size: 16px;
+            background-color: transparent;
+            outline: none;
+            border:0px;
+            cursor: pointer;
+
+            &:hover{
+                opacity: 1;
+            }
+        }
+    }
+}
