@@ -4,12 +4,12 @@ const Header = () => {
 	return (
 		<header className="Header" id="home">
 			<div className="Header__text">
-				<h2>
+				<h3>
 					Hi, I'm Diego<span> </span>
 					<span role="img" aria-label="Emoji">
 						👋
 					</span>
-				</h2>
+				</h3>
 
 				<h1>React Developer, design and experience</h1>
 				<p>
@@ -18,7 +18,7 @@ const Header = () => {
 					nulla officia. Labore incididunt aliqua deserunt nulla incididunt
 					aliquip eiusmod laborum magna.
 				</p>
-				<button>Contact</button>
+				<button>CONNECT WITH ME</button>
 			</div>
 		</header>
 	)
