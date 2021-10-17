@@ -1,3 +1,4 @@
+import Footer from "../components/Footer"
 import Nav from "../components/Nav/Nav"
 import "./Layout.scss"
 
@@ -6,6 +7,7 @@ function Layout({ children }) {
 		<>
 			<Nav />
 			<main>{children}</main>
+			<Footer />
 		</>
 	)
 }
