@@ -1,10 +1,11 @@
 .Skills{
     width: 100vw;
-    background-color: aquamarine;
     display: flex;
     flex-direction: column;
    // justify-content: center;
     align-items: center;
+    gap:2rem;
+
 
     &__container{
         display: flex;

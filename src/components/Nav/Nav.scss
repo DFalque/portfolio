@@ -1,13 +1,17 @@
 .Nav{
     margin: auto;
-    width: 80vw;
+    width: 100vw;
     overflow: hidden;
     height: auto;
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 10vh;
+    //backdrop-filter: blur(6px);
+    background-color: white;
+    z-index: 10;
+    opacity: 0.90;
 
     &__icon{
         font-weight: bold;
@@ -21,6 +25,7 @@
 
         &__Link{
             text-decoration: none;
+            color: black;
             transition: all 0.5s ease-in-out;
             font-family: "Open Sans";
             opacity: 0.6;
@@ -35,4 +40,9 @@
             }
         }
     }
+}
+
+.sticky{
+    position: sticky;
+    top:0;
 }
