@@ -13,10 +13,10 @@ const Header = () => {
 
 				<h1>React Developer, design and experience</h1>
 				<p>
-					Voluptate nulla anim excepteur ex ipsum ea aute ut pariatur. Labore
-					aute consectetur exercitation tempor et veniam laboris officia ex
-					nulla officia. Labore incididunt aliqua deserunt nulla incididunt
-					aliquip eiusmod laborum magna.
+					I'm a Software Engineer specializing in React with 2 years of
+					experience. As a Front-end engineer, I am concerned about design and
+					user experience but also best practices in the tech industry to have
+					reusable and maintainable code.
 				</p>
 				<button>CONNECT WITH ME</button>
 			</div>
