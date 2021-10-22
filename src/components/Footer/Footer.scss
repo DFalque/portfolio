@@ -1,6 +1,25 @@
 .Footer{
-    margin-top: 10vh;
+    margin: 10vh 0 10vh 0;
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 20px;
+
+    &__iconContainer{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+
+        &__icon{
+            width: 2rem;
+            height: 2rem;
+            cursor: pointer;
+        }
+    }
+}
+
+.email-link{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
 }
