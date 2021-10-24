@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/DFalque/portfolio/static/css/main.e2880b30.chunk.css",
+    "main.js": "/DFalque/portfolio/static/js/main.3490f4b5.chunk.js",
+    "main.js.map": "/DFalque/portfolio/static/js/main.3490f4b5.chunk.js.map",
+    "runtime-main.js": "/DFalque/portfolio/static/js/runtime-main.6e2e4807.js",
+    "runtime-main.js.map": "/DFalque/portfolio/static/js/runtime-main.6e2e4807.js.map",
+    "static/js/2.66b6a5f8.chunk.js": "/DFalque/portfolio/static/js/2.66b6a5f8.chunk.js",
+    "static/js/2.66b6a5f8.chunk.js.map": "/DFalque/portfolio/static/js/2.66b6a5f8.chunk.js.map",
+    "index.html": "/DFalque/portfolio/index.html",
+    "static/css/main.e2880b30.chunk.css.map": "/DFalque/portfolio/static/css/main.e2880b30.chunk.css.map",
+    "static/js/2.66b6a5f8.chunk.js.LICENSE.txt": "/DFalque/portfolio/static/js/2.66b6a5f8.chunk.js.LICENSE.txt",
+    "static/media/dribbble.a97b66e1.svg": "/DFalque/portfolio/static/media/dribbble.a97b66e1.svg",
+    "static/media/figma.a2c29ad0.svg": "/DFalque/portfolio/static/media/figma.a2c29ad0.svg",
+    "static/media/github.95ad9234.svg": "/DFalque/portfolio/static/media/github.95ad9234.svg",
+    "static/media/icons8-react.222cf406.svg": "/DFalque/portfolio/static/media/icons8-react.222cf406.svg",
+    "static/media/instagram.e9e78fbb.svg": "/DFalque/portfolio/static/media/instagram.e9e78fbb.svg",
+    "static/media/javascript.aea239be.svg": "/DFalque/portfolio/static/media/javascript.aea239be.svg",
+    "static/media/me.f191d77d.JPG": "/DFalque/portfolio/static/media/me.f191d77d.JPG",
+    "static/media/python.5b3b3e27.svg": "/DFalque/portfolio/static/media/python.5b3b3e27.svg",
+    "static/media/sass.2f7d628a.svg": "/DFalque/portfolio/static/media/sass.2f7d628a.svg",
+    "static/media/typescript.32da652b.svg": "/DFalque/portfolio/static/media/typescript.32da652b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e2e4807.js",
+    "static/js/2.66b6a5f8.chunk.js",
+    "static/css/main.e2880b30.chunk.css",
+    "static/js/main.3490f4b5.chunk.js"
+  ]
+}
