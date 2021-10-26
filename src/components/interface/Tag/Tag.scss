@@ -1,0 +1,68 @@
+.Tag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   // padding: 1px 10px 1px 10px;
+    //border-radius: 20px;
+    height: 20px;
+
+    
+    p{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+}
+
+.react{
+  //background-color: #7FDBFF;
+  color: #002C3D;
+    
+
+}
+
+.node{
+    //background-color: #009B77;
+    color:#009B77;
+}
+
+.graph{
+    background-color: #85144b;
+}
+
+.sass{
+    //background-color:#B565A7;
+    color:#B565A7;
+
+
+}
+
+.javascript{
+    background-color: #85144b;
+
+}
+
+.typescript{
+
+}
+
+.native{
+    background-color: #85144b;
+
+}
+
+.heroku{
+    background-color: #92A8D1;
+   
+}
+
+.netlify{
+    background-color: #45B8AC;
+
+}
+
+.page{
+    background-color: #FF6F61;
+
+}
