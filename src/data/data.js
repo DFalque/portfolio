@@ -1,5 +1,6 @@
 //IMAGES
 import InstaWork from "../assets/images/backgroundWorks/instaFondo.jpg"
+import MomboWork from "../assets/images/backgroundWorks/mombo.png"
 
 export const nav = ["about", "skills", "works"]
 
@@ -18,22 +19,20 @@ export const work = [
 		title: "InstaClone",
 		review: "A copy of Instagram app",
 		description: "Esta es la descripción",
-		tags: ["SASS", "REACT", "NODE"],
-
-		tags: ["SASS", "REACT", "NODE"],
+		tags: ["REACT", "NODE", "GRAPHQL", "APOLLO", "AWS", "HEROKU"],
 	},
 	{
 		id: 1,
-		img: InstaWork,
-		title: "InstaClone",
-		review: "A copy of Instagram app",
+		img: MomboWork,
+		title: "Mombo",
+		review: "An app aabout travel trips",
 		description: "Esta es la descripción",
-		tags: ["SASS", "REACT", "NODE"],
+		tags: ["REACT NATIVE", "GOOGLE CLOUD", "AWS", "PYTHON"],
 	},
 	{
 		id: 2,
 		img: InstaWork,
-		title: "Mombo",
+		title: "Ali Drive",
 		review: "A copy of Instagram app",
 		description: "Esta es la descripción",
 		tags: ["SASS", "REACT", "NODE"],
@@ -49,7 +48,7 @@ export const work = [
 	{
 		id: 4,
 		img: InstaWork,
-		title: "AliDrive",
+		title: "Limpiezas Cies",
 		review: "A copy of Instagram app",
 		description: "Esta es la descripción",
 		tags: ["SASS", "REACT", "NODE"],
