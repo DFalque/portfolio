@@ -1,6 +1,8 @@
 //IMAGES
 import InstaWork from "../assets/images/backgroundWorks/instaFondo.jpg"
 import MomboWork from "../assets/images/backgroundWorks/mombo.png"
+import Limpcies from "../assets/images/backgroundWorks/Limpcies.png"
+import AliDrive from "../assets/images/backgroundWorks/AliDrive.png"
 
 export const nav = ["about", "skills", "works"]
 
@@ -31,32 +33,32 @@ export const work = [
 	},
 	{
 		id: 2,
-		img: InstaWork,
+		img: AliDrive,
 		title: "Ali Drive",
-		review: "A copy of Instagram app",
+		review: "Functional prototype for a car management application.",
 		description: "Esta es la descripción",
-		tags: ["SASS", "REACT", "NODE"],
+		tags: ["REACT NATIVE", "GOOGLE CLOUD"],
 	},
 	{
 		id: 3,
 		img: InstaWork,
-		title: "Clothes APP",
+		title: "VISTT ",
 		review: "A copy of Instagram app",
 		description: "Esta es la descripción",
 		tags: ["SASS", "REACT", "NODE"],
 	},
 	{
 		id: 4,
-		img: InstaWork,
+		img: Limpcies,
 		title: "Limpiezas Cies",
-		review: "A copy of Instagram app",
+		review: "Application to calculate the appropriate amount of ozone gas.",
 		description: "Esta es la descripción",
-		tags: ["SASS", "REACT", "NODE"],
+		tags: ["REACT NATIVE", "EXPO"],
 	},
 	{
 		id: 5,
 		img: InstaWork,
-		title: "AliDrive",
+		title: "ITINERARY",
 		review: "A copy of Instagram app",
 		description: "Esta es la descripción",
 		tags: ["SASS", "REACT", "NODE"],
